@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="assets/aledev-banner-light.svg#gh-light-mode-only" alt="AleDev / MoisesDev — tema claro" width="100%" />
-  <img src="assets/aledev-banner-dark.svg#gh-dark-mode-only" alt="AleDev / MoisesDev — tema oscuro" width="100%" />
+  <img src="assets/aledev-banner.svg" alt="AleDev / MoisesDev" width="100%" />
 </p>
 
 <p align="center">
