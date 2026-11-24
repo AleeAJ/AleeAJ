@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/aledev-banner.svg" alt="AleDev / MoisesDev — Developer Portfolio" width="100%" />
+  <img src="assets/aledev-banner-light.svg#gh-light-mode-only" alt="AleDev / MoisesDev — tema claro" width="100%" />
+  <img src="assets/aledev-banner-dark.svg#gh-dark-mode-only" alt="AleDev / MoisesDev — tema oscuro" width="100%" />
 </p>
 
 <p align="center">
@@ -8,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AleeAJ">GitHub</a>
+  <a href="https://github.com/AleeAJ">GITHUB</a>
   &nbsp;·&nbsp;
-  <a href="https://littlewatss.vercel.app">LittleWatts — demo en Vercel</a>
+  <a href="https://littlewatss.vercel.app">LITTLEWATTS — DEMO EN VERCEL</a>
 </p>
 
 ---
@@ -36,7 +37,6 @@ Actualmente estoy enfocado en desarrollo frontend, experiencia de usuario e inte
       <p><strong>Concepto de control de acceso inteligente.</strong></p>
       <p>Proyecto orientado a comunidades residenciales, con flujos de acceso mediante QR, pases de visita y comunicación en tiempo real. Las demostraciones deben usar datos ficticios, nunca información real de residentes.</p>
       <p><a href="https://github.com/AleeAJ/VexWardRepository">Ver repositorio público ↗</a></p>
-      <p><sub>React · Vite · Tailwind CSS · Node.js · Express · Socket.IO</sub></p>
     </td>
   </tr>
   <tr>
@@ -48,23 +48,23 @@ Actualmente estoy enfocado en desarrollo frontend, experiencia de usuario e inte
   </tr>
 </table>
 
-## Tecnologías & herramientas
+## Stack & herramientas
 
+<p align="center"><strong>FRONTEND & UI</strong></p>
 <p align="center">
-  <strong>FRONTEND & UI</strong><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite,tailwind&perline=5&theme=dark" alt="React, Next.js, TypeScript, Vite y Tailwind CSS" height="88" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite,tailwind&perline=5&theme=dark" alt="React, Next.js, TypeScript, Vite y Tailwind CSS" height="112" />
+</p>
+
+<p align="center"><strong>BACKEND & WORKFLOW</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,git,github,vercel&perline=6&theme=dark" alt="Node.js, Express, Firebase, Git, GitHub y Vercel" height="112" />
 </p>
 
 <p align="center">
-  <strong>BACKEND, CLOUD & WORKFLOW</strong><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,git,github,vercel&perline=6&theme=dark" alt="Node.js, Express, Firebase, Git, GitHub y Vercel" height="88" />
+  <img src="https://img.shields.io/badge/Socket.IO-17121F?style=for-the-badge&logo=socketdotio&logoColor=D8C4FF" alt="Socket.IO" height="42" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Socket.IO-111018?style=for-the-badge&logo=socketdotio&logoColor=D7C4F4" alt="Socket.IO" height="34" />
-</p>
-
-<sub>Iconos ampliados para facilitar su lectura. Tecnologías utilizadas en distintos proyectos y prototipos; no representan una certificación ni un nivel de dominio.</sub>
+<p align="center"><sub>Iconos ampliados para facilitar su lectura. Tecnologías presentes en mis proyectos y prototipos; no representan certificaciones ni un nivel de dominio.</sub></p>
 
 ## En desarrollo
 
@@ -75,5 +75,5 @@ Actualmente estoy enfocado en desarrollo frontend, experiencia de usuario e inte
 ---
 
 <p align="center">
-  <sub>AleDev / MoisesDev · Construyendo experiencias digitales con intención.</sub>
+  <sub>AleDev / MoisesDev · BUILD / LEARN / CREATE</sub>
 </p>
