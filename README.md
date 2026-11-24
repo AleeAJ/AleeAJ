@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/aledev-banner.svg" alt="AleDev / MoisesDev — Developer Portfolio" width="100%" />
+  <img src="./assets/aledev-banner.svg" alt="AleDev / MoisesDev — Developer Portfolio" width="100%" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 Soy **AleDev / MoisesDev**, desarrollador web en formación. Me gusta transformar ideas en experiencias digitales claras, cuidar los detalles de interfaz y aprender construyendo proyectos reales.
 
-Actualmente estoy enfocado en el desarrollo frontend, la experiencia de usuario y la integración de funcionalidades de backend en proyectos personales.
+Actualmente estoy enfocado en desarrollo frontend, experiencia de usuario e integración de funcionalidades para aplicaciones web.
 
 ## Proyectos destacados
 
@@ -30,15 +30,14 @@ Actualmente estoy enfocado en el desarrollo frontend, la experiencia de usuario 
     <td width="50%" valign="top">
       <h3>01 · LittleWatts</h3>
       <p><strong>Prototipo de tienda digital de moda urbana.</strong></p>
-      <p>Un prototipo web para presentar la identidad de una marca de moda urbana y una experiencia inicial de catálogo. La versión publicada es una <strong>demo en Vercel</strong>; sigue en desarrollo y no se presenta como una tienda de producción terminada.</p>
+      <p>Un prototipo web para presentar la identidad de una marca de moda urbana y una experiencia inicial de catálogo. La versión publicada es una demo en Vercel; sigue en desarrollo y no se presenta como una tienda de producción terminada.</p>
       <p><a href="https://littlewatss.vercel.app">Ver demo ↗</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>02 · VexWard</h3>
       <p><strong>Concepto de control de acceso inteligente.</strong></p>
-      <p>Proyecto orientado a comunidades residenciales, con flujos de acceso mediante QR, pases de visita y comunicación en tiempo real. Los ejemplos de demostración deben utilizar datos ficticios, nunca información real de residentes.</p>
+      <p>Proyecto orientado a comunidades residenciales, con flujos de acceso mediante QR, pases de visita y comunicación en tiempo real. Las demostraciones deben usar datos ficticios, nunca información real de residentes.</p>
       <p><a href="https://github.com/AleeAJ/VexWardRepository">Ver repositorio público ↗</a></p>
-      <p><sub>React · Vite · Tailwind CSS · Node.js · Express · Socket.IO</sub></p>
     </td>
   </tr>
   <tr>
@@ -49,11 +48,19 @@ Actualmente estoy enfocado en el desarrollo frontend, la experiencia de usuario 
   </tr>
 </table>
 
-## Tecnologías
+## Stack & herramientas
 
-Stack documentado en el repositorio público de VexWard.
+<p align="center"><strong>FRONTEND & UI</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite,tailwind&perline=5&theme=dark" alt="React, Next.js, TypeScript, Vite y Tailwind CSS" height="112" />
+</p>
 
-<p>
+<p align="center"><strong>BACKEND & WORKFLOW</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,git,github,vercel&perline=6&theme=dark" alt="Node.js, Express, Firebase, Git, GitHub y Vercel" height="112" />
+</p>
+
+<p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-241B35?style=flat-square&logo=vite&logoColor=B48EFF" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
@@ -61,6 +68,8 @@ Stack documentado en el repositorio público de VexWard.
   <img alt="Express" src="https://img.shields.io/badge/Express-222222?style=flat-square&logo=express&logoColor=white" />
   <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-222222?style=flat-square&logo=socketdotio&logoColor=white" />
 </p>
+
+<p align="center"><sub>Stack documentado en el repositorio público de VexWard. Las tecnologías se presentan como herramientas presentes en proyectos y prototipos, no como certificaciones ni como un nivel de dominio.</sub></p>
 
 ## En lo que estoy trabajando
 
