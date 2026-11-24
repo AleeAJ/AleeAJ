@@ -48,18 +48,23 @@ Actualmente estoy enfocado en desarrollo frontend, experiencia de usuario e inte
   </tr>
 </table>
 
-## Tecnologías
+## Tecnologías & herramientas
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-241B35?style=flat-square&logo=vite&logoColor=B48EFF" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-17251B?style=flat-square&logo=nodedotjs&logoColor=83CD29" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-222222?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-222222?style=flat-square&logo=socketdotio&logoColor=white" />
+<p align="center">
+  <strong>FRONTEND & UI</strong><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite,tailwind&perline=5&theme=dark" alt="React, Next.js, TypeScript, Vite y Tailwind CSS" height="88" />
 </p>
 
-*Tecnologías mostradas a partir del proyecto público VexWard.*
+<p align="center">
+  <strong>BACKEND, CLOUD & WORKFLOW</strong><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,git,github,vercel&perline=6&theme=dark" alt="Node.js, Express, Firebase, Git, GitHub y Vercel" height="88" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Socket.IO-111018?style=for-the-badge&logo=socketdotio&logoColor=D7C4F4" alt="Socket.IO" height="34" />
+</p>
+
+<sub>Iconos ampliados para facilitar su lectura. Tecnologías utilizadas en distintos proyectos y prototipos; no representan una certificación ni un nivel de dominio.</sub>
 
 ## En desarrollo
 
@@ -70,5 +75,5 @@ Actualmente estoy enfocado en desarrollo frontend, experiencia de usuario e inte
 ---
 
 <p align="center">
-  <sub>AleDev / MoisesDev · Diseñado con una estética oscura, violeta y lavanda.</sub>
+  <sub>AleDev / MoisesDev · Construyendo experiencias digitales con intención.</sub>
 </p>
