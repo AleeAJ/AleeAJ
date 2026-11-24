@@ -1,30 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="t d">
-<title id="t">AleDev / MoisesDev</title><desc id="d">Editorial developer banner, dark theme, violet and muted rose.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="430" viewBox="0 0 1600 430" role="img" aria-labelledby="title description">
+<title id="title">AleDev</title>
+<desc id="description">Banner oscuro minimalista con el nombre AleDev.</desc>
 <defs>
- <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08070C"/><stop offset=".55" stop-color="#130E1B"/><stop offset="1" stop-color="#21152E"/></linearGradient>
- <radialGradient id="glow"><stop stop-color="#8E5BE4" stop-opacity=".45"/><stop offset="1" stop-color="#5A367F" stop-opacity="0"/></radialGradient>
- <linearGradient id="accent"><stop stop-color="#C5AEFF"/><stop offset="1" stop-color="#D9A8C6"/></linearGradient>
- <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#C4A7F4" stroke-opacity=".10"/></pattern>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#101112"/>
+    <stop offset=".52" stop-color="#090A0B"/>
+    <stop offset="1" stop-color="#141516"/>
+  </linearGradient>
+  <radialGradient id="glow">
+    <stop stop-color="#27292B" stop-opacity=".72"/>
+    <stop offset="1" stop-color="#101112" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#35383A"/>
+    <stop offset=".5" stop-color="#55585A"/>
+    <stop offset="1" stop-color="#35383A"/>
+  </linearGradient>
 </defs>
-<rect width="1600" height="520" fill="url(#bg)"/><rect width="1600" height="520" fill="url(#grid)"/>
-<ellipse cx="1270" cy="250" rx="430" ry="310" fill="url(#glow)"/>
-<path d="M1010 520 1360 0M1150 520 1500 0M1290 520 1640 0" stroke="#B89AEF" stroke-opacity=".23" stroke-width="2"/>
-<g transform="translate(110 78)">
- <rect x="0" y="0" width="54" height="5" rx="2" fill="url(#accent)"/>
- <text x="0" y="48" fill="#C6B3E8" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="7">DEVELOPER PORTFOLIO  /  GITHUB</text>
- <text x="-5" y="206" fill="#F8F4FC" font-family="Arial,sans-serif" font-size="142" font-weight="900" letter-spacing="-9">AleDev</text>
- <text x="4" y="265" fill="#C4A9F0" font-family="Arial,sans-serif" font-size="35" font-weight="500" letter-spacing="9">/ MOISESDEV</text>
- <path d="M4 302H600" stroke="#B99AEF" stroke-opacity=".58"/>
- <text x="4" y="352" fill="#E6DDEC" font-family="Arial,sans-serif" font-size="24" letter-spacing="1">Construyendo experiencias digitales con intención.</text>
- <text x="4" y="398" fill="#A99AB8" font-family="monospace" font-size="15" letter-spacing="3">WEB DEVELOPMENT  ·  UI  ·  DIGITAL PRODUCTS</text>
-</g>
-<g transform="translate(1230 100)">
- <text x="0" y="210" fill="#B99AEF" fill-opacity=".19" font-family="Arial,sans-serif" font-size="310" font-weight="900" letter-spacing="-25">AD</text>
- <path d="M25 35H270V280H25Z" fill="none" stroke="#C5A8F0" stroke-opacity=".50" stroke-width="2" transform="rotate(8 147 157)"/>
- <path d="M68 72H312V316H68Z" fill="none" stroke="#D9A8C6" stroke-opacity=".55" stroke-width="2" transform="rotate(8 190 194)"/>
- <circle cx="290" cy="20" r="7" fill="#D9A8C6"/><circle cx="28" cy="345" r="5" fill="#B99AEF"/>
-</g>
-<text x="110" y="482" fill="#B4A5C4" font-family="monospace" font-size="13" letter-spacing="3">BUILD / LEARN / CREATE</text>
-<text x="1430" y="482" fill="#B4A5C4" font-family="monospace" font-size="13" letter-spacing="2">AD — 01</text>
-<rect x="1" y="1" width="1598" height="518" fill="none" stroke="#C1A4EC" stroke-opacity=".28"/>
+<rect width="1600" height="430" fill="url(#background)"/>
+<ellipse cx="800" cy="215" rx="560" ry="260" fill="url(#glow)"/>
+<text x="800" y="250" text-anchor="middle" fill="#F2F2F0" font-family="Arial, Helvetica, sans-serif" font-size="108" font-weight="600" letter-spacing="10">AleDev</text>
+<rect x="1" y="1" width="1598" height="428" fill="none" stroke="url(#border)" stroke-width="2"/>
 </svg>
